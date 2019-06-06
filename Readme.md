@@ -9,6 +9,7 @@ These are two senior programmers who are not actual students, but who are workin
 Albeit, they were students only in the sense of the tutorial I led, at the ITS 2019 event.
 
 Lyndell Hall: https://www.linkedin.com/in/lynden-hall-ab198621/
+
 Duane Brown: https://www.linkedin.com/in/duane-brown-082986120/
 
 Summary
