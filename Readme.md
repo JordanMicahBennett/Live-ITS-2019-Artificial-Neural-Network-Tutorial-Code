@@ -17,6 +17,5 @@ The code may be found in the [source-code](https://github.com/JordanMicahBennett
 
 ![Alt text](https://github.com/JordanMicahBennett/Live-ITS-2019-Artificial-Neural-Network-Tutorial-Code/blob/master/images/basic%20nn%20architecture.png?raw=true "default page")
 
-===========
 ![Alt text](https://github.com/JordanMicahBennett/Live-ITS-2019-Artificial-Neural-Network-Tutorial-Code/blob/master/images/Xor%20gate.png?raw=true "default page")
 
