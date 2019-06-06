@@ -27,7 +27,7 @@ The code may be found in the [source-code](https://github.com/JordanMicahBennett
 
 ![Alt text](https://github.com/JordanMicahBennett/Live-ITS-2019-Artificial-Neural-Network-Tutorial-Code/blob/master/images/Xor%20gate.png?raw=true "default page")
 
-Other websites
+Other links
 ===========
 ITS 2019 Website, where you'll find my poster/guide:
 https://its2019.iis-international.org/program/selected-workshops-and-tutorials/ 
