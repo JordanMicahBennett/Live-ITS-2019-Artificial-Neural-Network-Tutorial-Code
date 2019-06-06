@@ -7,3 +7,16 @@ Figure 1: A self-driving car driving without driver in the State of Phoenix. (Th
 Summary
 ===========
 ![Alt text](https://github.com/JordanMicahBennett/Live-ITS-2019-Artificial-Neural-Network-Tutorial-Code/blob/master/images/SummaryPart1.png?raw=true "default page")
+
+
+Diagrams and Software code
+===========
+The simple neural network from tutorial was designed to do the task of predicting an “Xor Gate” output, given two “Xor Gate” inputs. This is the typical example used to teach artificial neural  networks.
+
+The code may be found in the [source-code](https://github.com/JordanMicahBennett/Live-ITS-2019-Artificial-Neural-Network-Tutorial-Code/tree/master/source-code) folder of this repository.
+
+![Alt text](https://github.com/JordanMicahBennett/Live-ITS-2019-Artificial-Neural-Network-Tutorial-Code/blob/master/images/basic%20nn%20architecture.png?raw=true "default page")
+
+===========
+![Alt text](https://github.com/JordanMicahBennett/Live-ITS-2019-Artificial-Neural-Network-Tutorial-Code/blob/master/images/Xor%20gate.png?raw=true "default page")
+
