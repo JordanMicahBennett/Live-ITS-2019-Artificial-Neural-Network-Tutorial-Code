@@ -3,6 +3,13 @@
 
 Figure 1: A self-driving car driving without driver in the State of Phoenix. (This self-driving taxi service, which is powered by artificial intelligence, [was made available to the public on December 5, 2018!](https://www.youtube.com/watch?v=Eq89YGbERzs))
 
+"Students" who participated
+===========
+These are two senior programmers who are not actual students, but who are working adults.
+Albeit, they were students only in the sense of the tutorial I led, at the ITS 2019 event.
+
+Lyndell Hall: https://www.linkedin.com/in/lynden-hall-ab198621/
+Duane Brown: https://www.linkedin.com/in/duane-brown-082986120/
 
 Summary
 ===========
