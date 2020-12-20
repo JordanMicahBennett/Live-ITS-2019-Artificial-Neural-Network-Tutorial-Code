@@ -15,7 +15,7 @@ public class NeuralNetwork
             
             int numberOfWeightsFromNextNeuron = lSI + 1 < topology.size ( ) ? topology.get (lSI + 1 ) : 0;
             
-            for ( int lI = 0; lI <= topology.size ( ); lI ++ )
+            for ( int lI = 0; lI <= topology.get ( lSI ); lI ++ )
                 layers.get ( lSI ).add ( new Neuron (  eta,  alpha,  lI,  numberOfWeightsFromNextNeuron) );
                 
             Neuron lastNeuronPerLayer = layers.get ( lSI ).get ( layers.get ( lSI ).size ( ) - 1 );  
@@ -64,7 +64,7 @@ public class NeuralNetwork
             
             for ( int iI = 0; iI < currentLayer.size ( ) -1; iI ++ )
             {
-                currentLayer.get ( iI ).calculateHiddenGradient ( priorLayer );
+                currentLayer.get ( iI ).updateWeights ( priorLayer );
             }
         }
     }
